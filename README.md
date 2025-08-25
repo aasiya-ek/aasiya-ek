@@ -34,14 +34,6 @@
 - [HTML_PROJECT](https://github.com/aasiy-ek/HTML_PROJECT) – Basic HTML project for learning fundamentals.
 
 ---
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
-  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js%20%7C%20MongoDB-brightgreen" />
-  <img src="https://img.shields.io/badge/From-Noida-orange" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 <p>
