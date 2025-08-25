@@ -31,7 +31,7 @@
 ---
 
 ## 📌 Featured Projects
-- [HTML_PROJECT](https://github.com/aasiy-ek/HTML_PROJECT) – Basic HTML project for learning fundamentals.
+- [HTML_PROJECT](https://github.com/aasiya-ek/HTML-PROJECT) – Basic HTML project for learning fundamentals.
 
 ---
 
@@ -40,7 +40,7 @@
   <a href="linkedin.com/in/aasiya-ekram" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aasiyaekram@gmail.com">
+  <a href="mailtoaasiyaekram@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
