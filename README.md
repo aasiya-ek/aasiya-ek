@@ -1,6 +1,181 @@
-## Hi there 👋
+## 
+<h1 align="center">Hi 👋, I'm Aasiya Ekram</h1>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
 
-<!--
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
+  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js%20%7C%20MongoDB-brightgreen" />
+  <img src="https://img.shields.io/badge/From-Noida-orange" />
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Passionate about building **responsive & user-friendly** websites.
+- 📚 Currently learning **React.js**, **Node.js**, and **MySql**.
+- 🌱 Interested in **Open Source** contributions.
+- 🎯 Goal: Become a **professional full-stack developer**.
+
+---
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- [HTML_assignment_1](https://github.com/aasiy-ek/HTML_assignment_1) – Basic HTML project for learning fundamentals.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasiy-ek&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasiy-ek&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="<!-- Header -->
+<h1 align="center">Hi 👋, I'm Aasiya Ekram</h1>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
+  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js%20%7C%20MongoDB-brightgreen" />
+  <img src="https://img.shields.io/badge/From-Noida-orange" />
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Passionate about building **responsive & user-friendly** websites.
+- 📚 Currently learning **React.js**, **Node.js**, and **MongoDB**.
+- 🌱 Interested in **Open Source** contributions.
+- 🎯 Goal: Become a **professional full-stack developer**.
+
+---
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- [HTML_assignment_1](https://github.com/aasiy-ek/HTML_assignment_1) – Basic HTML project for learning fundamentals.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasiy-ek&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasiy-ek&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="<!-- Header -->
+<h1 align="center">Hi 👋, I'm Aasiya Ekram</h1>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer | Tech Enthusiast</h3>
+
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
+  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js%20%7C%20MongoDB-brightgreen" />
+  <img src="https://img.shields.io/badge/From-Noida-orange" />
+</p>
+
+---
+
+## 🚀 About Me
+- 💻 Passionate about building **responsive & user-friendly** websites.
+- 📚 Currently learning **React.js**, **Node.js**, and **MongoDB**.
+- 🌱 Interested in **Open Source** contributions.
+- 🎯 Goal: Become a **professional full-stack developer**.
+
+---
+
+## 🛠 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+## 📌 Featured Projects
+- [HTML_assignment_1](https://github.com/aasiy-ek/HTML_assignment_1) – Basic HTML project for learning fundamentals.
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aasiy-ek&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aasiy-ek&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="linkedin.com/in/aasiya-ekram" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:aasiyaekram@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+!--
 **aasiya-ek/aasiya-ek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
