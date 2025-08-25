@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate about building **responsive & user-friendly** websites.
-- 📚 Currently learning **React.js**, **Node.js**, and **MySql**.
+- 📚 Currently learning **JAVA**, **React.js**, and **MySql**.
 - 🌱 Interested in **Open Source** contributions.
 - 🎯 Goal: Become a **professional full-stack developer**.
 
@@ -31,7 +31,7 @@
 ---
 
 ## 📌 Featured Projects
-- [HTML_assignment_1](https://github.com/aasiy-ek/HTML_PROJECT) – Basic HTML project for learning fundamentals.
+- [HTML_PROJECT](https://github.com/aasiy-ek/HTML_PROJECT) – Basic HTML project for learning fundamentals.
 
 ---
 <!-- Badges -->
