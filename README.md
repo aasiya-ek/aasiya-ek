@@ -4,7 +4,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Developer-blue" />
   <img src="https://img.shields.io/badge/From-Noida-orange" />
 </p>
 
