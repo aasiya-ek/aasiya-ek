@@ -5,7 +5,6 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Frontend%20Development-blue" />
-  <img src="https://img.shields.io/badge/Learning-React%20%7C%20Node.js%20%7C%20Java-brightgreen" />
   <img src="https://img.shields.io/badge/From-Noida-orange" />
 </p>
 
