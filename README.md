@@ -30,7 +30,7 @@
 ---
 
 ## 📌 Featured Projects
-- [HTML_PROJECT](https://github.com/aasiya-ek/HTML-PROJECT) – Basic HTML project for learning fundamentals.
+- [JAVA_PROJECT](https://github.com/aasiya-ek/Complaint-Management-System) – A Project on Complaint Management System.
 
 ---
 
