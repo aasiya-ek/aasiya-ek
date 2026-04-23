@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate about building **responsive & user-friendly** websites.
-- 📚 Currently learning **JAVA**, **React.js**, and **MySql**.
+- 📚 Currently learning **HTML**, **CSS**, **Javascript**, and **React.js**.
 - 🌱 Interested in **Open Source** contributions.
 - 🎯 Goal: Become a **professional full-stack developer**.
 
