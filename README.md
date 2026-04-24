@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate about building **responsive & user-friendly** websites.
-- 📚 Currently learning **HTML5**, **CSS3**, **Javascript**, and **React.js**.
+- 📚 Currently learning **HTML5**, **CSS3**, **Javascript**, **Tailwind** and **React.js**.
 - 🌱 Interested in **Open Source** contributions.
 - 🎯 Goal: Become a **professional full-stack developer**.
 
