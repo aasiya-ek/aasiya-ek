@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 - 💻 Passionate about building **responsive & user-friendly** websites.
-- 📚 Currently learning **React.js**.
+- 📚 Currently learning **ReactJS**.
 - 🌱 Interested in **Open Source** contributions.
 - 🎯 Goal: Become a **professional full-stack developer**.
 
